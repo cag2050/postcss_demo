@@ -1,0 +1,23 @@
+{
+  "name": "postcss_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cag2050/postcss_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cag2050/postcss_demo/issues"
+  },
+  "homepage": "https://github.com/cag2050/postcss_demo#readme",
+  "dependencies": {
+    "autoprefixer": "^6.6.0",
+    "postcss": "^5.2.8"
+  }
+}
