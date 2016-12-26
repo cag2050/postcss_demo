@@ -1,0 +1,10 @@
+{
+  "use": [
+    "autoprefixer"
+  ],
+  "input": "command-handle/input.css",
+  "output": "command-handle/output.css",
+  "autoprefixer": {
+    "browsers": "> 5%"
+  }
+}
